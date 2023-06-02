@@ -159,6 +159,7 @@ public class HurricaneList {
         }
     }
 
+    // test function to see if the binary file has correct data inside
 //    public void loadFromBinaryTest(File file) throws FileNotFoundException, IOException{
 //        DataInputStream in = new DataInputStream(new FileInputStream(file));
 //        while(in.available() > 0){

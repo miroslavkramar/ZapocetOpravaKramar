@@ -24,7 +24,6 @@ public class HurricaneApp {
 
         try {
             HurricaneList hlist = new HurricaneList(new File("data" + FILE_SEPARATOR + "HurricaneData.txt"));
-            //System.out.println(hlist.toString());
 
             while (menuSelect != 0) {
                 try {
